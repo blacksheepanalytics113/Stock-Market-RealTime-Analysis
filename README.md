@@ -14,5 +14,7 @@ We are going to use different technologies such as Python, Amazon Web Services (
 
 3. Kafka
 
-# DataSets Used
+# Data Archietecture
+<img src="C:/Users/AjiyeAdunoluwa/Videos/Kafka/Kafka Img" alt="Alt text" title="Optional title">
+
 
