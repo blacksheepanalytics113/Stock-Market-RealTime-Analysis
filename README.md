@@ -11,7 +11,6 @@ We are going to use different technologies such as Python, Amazon Web Services (
   b. Glue Crawler & Catalog
   c. Athena
   d. EC2
-
 3. Kafka
 
 # Data Archietecture
