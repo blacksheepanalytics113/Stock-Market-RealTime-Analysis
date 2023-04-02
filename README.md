@@ -15,6 +15,4 @@ We are going to use different technologies such as Python, Amazon Web Services (
 3. Kafka
 
 # Data Archietecture
-<img src="C:/Users/AjiyeAdunoluwa/Videos/Kafka/Kafka Img" alt="Alt text" title="Optional title">
-
-
+![Kafka Img](https://user-images.githubusercontent.com/80220180/229370311-b841c431-327e-4d50-a5c1-2a9605374364.jpg)
