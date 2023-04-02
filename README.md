@@ -6,7 +6,7 @@ We are going to use different technologies such as Python, Amazon Web Services (
 
 # Technology Used 
 1. Python Programming
-2.AWS (Amazon Web Services)
+2. AWS (Amazon Web Services)
   a. S3
   b. Glue Crawler & Catalog
   c. Athena
